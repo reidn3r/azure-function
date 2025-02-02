@@ -18,7 +18,7 @@ Projeto desenvolvido para fins de aprendizado, explorando como funções serverl
 $ https://mood-function.azurewebsites.net/api/httptalk?name=NOME
 ```
 🎯 Exemplo
-<p align="center"> <img src="../azure-function/assets/request-example.png" alt="Function Response"> </p>
+<p align="center"> <img src="https://github.com/reidn3r/azure-function/blob/main/assets/request-example.png" alt="Function Response"> </p>
 📋 OBS:
 Todas as frases de saída são geradas pela LLM Gemini.
 <hr>
